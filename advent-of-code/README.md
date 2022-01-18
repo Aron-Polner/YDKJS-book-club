@@ -32,10 +32,12 @@ You can read more about nodemon [here](https://github.com/remy/nodemon).
 - https://adventofcode.com/2021/day/4
 - https://adventofcode.com/2021/day/5
 
-### Links to used stuff in solutions:
+### Links to stuff used in solutions:
 
 - [fs](https://nodejs.org/api/fs.html#fsreadfilesyncpath-options)
 - [split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 - [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+Hope you find some of this helpful!
