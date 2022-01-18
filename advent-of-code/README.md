@@ -24,17 +24,17 @@ npm install --global nodemon
 
 ### Links to advent of code problems
 
-https://adventofcode.com/2021/day/1
-https://adventofcode.com/2021/day/2
-https://adventofcode.com/2021/day/3
-https://adventofcode.com/2021/day/4
-https://adventofcode.com/2021/day/5
+- https://adventofcode.com/2021/day/1
+- https://adventofcode.com/2021/day/2
+- https://adventofcode.com/2021/day/3
+- https://adventofcode.com/2021/day/4
+- https://adventofcode.com/2021/day/5
 
 ### Links to used stuff in solutions:
 
-- (fs)[https://nodejs.org/api/fs.html#fsreadfilesyncpath-options]
-- (split)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split]
-- (map)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map]
-- (forEach)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach]
-- (template literals)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals]
-- (nodemon)[https://github.com/remy/nodemon]
+- [fs](https://nodejs.org/api/fs.html#fsreadfilesyncpath-options)
+- [split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+- [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- [nodemon](https://github.com/remy/nodemon)
