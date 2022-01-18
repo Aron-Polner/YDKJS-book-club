@@ -22,6 +22,8 @@ nodemon needs to be installed to work. That can be done via this command:
 npm install --global nodemon
 ```
 
+You can read more about nodemon [here](https://github.com/remy/nodemon).
+
 ### Links to advent of code problems
 
 - https://adventofcode.com/2021/day/1
@@ -37,4 +39,3 @@ npm install --global nodemon
 - [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-- [nodemon](https://github.com/remy/nodemon)
