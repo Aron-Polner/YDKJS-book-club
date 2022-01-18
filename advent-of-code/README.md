@@ -40,4 +40,4 @@ You can read more about nodemon [here](https://github.com/remy/nodemon).
 - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
-Hope you find some of this helpful!
+### Hope you find some of this helpful and good luck with getting started!
