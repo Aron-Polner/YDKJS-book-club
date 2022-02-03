@@ -1,4 +1,5 @@
 // reference: https://github.com/Aron-Polner/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md#see-the-closure
+// medium post explaining callbacks and closures: // medium post: https://javascript.plainenglish.io/using-callbacks-and-closures-in-javascript-2261030cbbf5#:~:text=Callbacks%20are%20functions%20that%20are,parts%20of%20a%20JavaScript%20program.
 
 function lookupAnimal(animalID) {
   var animals = [
