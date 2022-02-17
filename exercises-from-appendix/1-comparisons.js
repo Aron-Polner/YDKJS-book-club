@@ -26,18 +26,8 @@ function scheduleMeeting(startTime, durationMinutes) {
 
 console.log(scheduleMeeting("7:00", 15)); // false
 console.log(scheduleMeeting("07:15", 30)); // false
-console.log(scheduleMeeting("7:30", 30)); // true
+console.log(scheduleMeeting("07:30", 30)); // true
 console.log(scheduleMeeting("11:30", 60)); // true
 console.log(scheduleMeeting("17:00", 45)); // true
 console.log(scheduleMeeting("17:30", 30)); // false
 console.log(scheduleMeeting("18:00", 15)); // false
-
-// tests = [
-// scheduleMeeting("7:00", 15),
-// scheduleMeeting("07:15", 30),
-// scheduleMeeting("7:30", 30),
-// scheduleMeeting("11:30", 60),
-// scheduleMeeting("17:00", 45),
-// scheduleMeeting("17:30", 30),
-// scheduleMeeting("18:00", 15),
-// ]
